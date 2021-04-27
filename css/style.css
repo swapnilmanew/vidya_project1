@@ -22,7 +22,10 @@ a {
 body {
   overflow-x: hidden;
 }
-
+.navbar-brand
+{
+  width:15px !important;
+}
 .theme-text {
   color: var(--theme-color);
 }
